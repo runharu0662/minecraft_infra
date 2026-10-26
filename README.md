@@ -11,3 +11,4 @@ Docker Composeと国内VPSで構築・運用するプロジェクト。
 ## 現在の状況
 
 設計段階。まずはMac上でDocker Composeによる動作検証を行う。
+# minecraft_infra
