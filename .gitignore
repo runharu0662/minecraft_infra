@@ -1,0 +1,8 @@
+.env
+  .env.*
+  !.env.example
+# Minecraftの実行データ
+  /data/
+
+  # macOS
+  .DS_Store
