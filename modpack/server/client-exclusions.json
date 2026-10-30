@@ -1,0 +1,104 @@
+{
+  "schema": 1,
+  "mods": [
+    {
+      "projectID": 238372,
+      "fileID": 5838485,
+      "fileName": "Neat-1.20.1-41-FORGE.jar",
+      "version": "41",
+      "mode": "automatic-client-file-filter",
+      "gameVersions": [
+        "Client",
+        "1.20.1",
+        "Forge"
+      ],
+      "reason": "Pinned file is tagged Client without Server; preserve official helper's isServerMod filtering.",
+      "source": "https://www.curseforge.com/minecraft/mc-mods/neat/files/5838485"
+    },
+    {
+      "projectID": 448233,
+      "fileID": 9100267,
+      "fileName": "entityculling-forge-1.11.3-mc1.20.1.jar",
+      "version": "1.11.3",
+      "mode": "automatic-client-file-filter",
+      "gameVersions": [
+        "Client",
+        "1.20.1",
+        "Forge"
+      ],
+      "reason": "Pinned file is tagged Client without Server; preserve official helper's isServerMod filtering.",
+      "source": "https://www.curseforge.com/minecraft/mc-mods/entityculling/files/9100267"
+    },
+    {
+      "projectID": 949555,
+      "fileID": 7338200,
+      "fileName": "BadOptimizations-2.4.1-1.20.1.jar",
+      "version": "2.4.1",
+      "mode": "automatic-client-file-filter",
+      "gameVersions": [
+        "Client",
+        "Fabric",
+        "1.20.1",
+        "Forge"
+      ],
+      "reason": "Pinned file is tagged Client without Server; preserve official helper's isServerMod filtering.",
+      "source": "https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/7338200"
+    },
+    {
+      "projectID": 546670,
+      "fileID": 9189705,
+      "fileName": "Essential_1-5-1_forge_1-20-1.jar",
+      "version": "1.5.1",
+      "mode": "automatic-client-file-filter",
+      "gameVersions": [
+        "Client",
+        "1.20.1",
+        "Forge"
+      ],
+      "reason": "Pinned file is tagged Client without Server; preserve official helper's isServerMod filtering.",
+      "source": "https://www.curseforge.com/minecraft/mc-mods/essential-mod/files/9189705"
+    },
+    {
+      "projectID": 272515,
+      "fileID": 8569648,
+      "fileName": "BetterAdvancements-Forge-1.20.1-0.6.0.73.jar",
+      "version": "0.6.0.73",
+      "mode": "automatic-client-file-filter",
+      "gameVersions": [
+        "Client",
+        "1.20.1",
+        "Forge"
+      ],
+      "reason": "Pinned file is tagged Client without Server; preserve official helper's isServerMod filtering.",
+      "source": "https://www.curseforge.com/minecraft/mc-mods/better-advancements/files/8569648"
+    },
+    {
+      "projectID": 60089,
+      "fileID": 5338457,
+      "fileName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "version": "2.25.1",
+      "mode": "automatic-client-file-filter",
+      "gameVersions": [
+        "Client",
+        "1.20.1",
+        "Forge"
+      ],
+      "reason": "Pinned file is tagged Client without Server; preserve official helper's isServerMod filtering.",
+      "source": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/5338457"
+    },
+    {
+      "projectID": 908741,
+      "fileID": 5681725,
+      "fileName": "embeddium-0.3.31+mc1.20.1.jar",
+      "version": "0.3.31+mc1.20.1",
+      "mode": "explicit-project-exclusion",
+      "gameVersions": [
+        "NeoForge",
+        "1.20.1",
+        "Forge"
+      ],
+      "reason": "Author describes a Minecraft client rendering/performance mod; explicitly excluded by user instruction #005.",
+      "source": "https://www.curseforge.com/minecraft/mc-mods/embeddium/files/5681725"
+    }
+  ]
+}

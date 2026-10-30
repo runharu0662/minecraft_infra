@@ -1,8 +1,29 @@
 .env
-  .env.*
-  !.env.example
+.env.*
+!.env.example
 # Minecraftの実行データ
-  /data/
+/data/
+/backups/
+/staging/
+/migration-private/
+/chatgpt-handoff.txt
+/m_alt/
+*.zip
+*.jar
+*.log
+*.secret
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+/.ssh/
+/.aws/
+/.tailscale/
+/secrets/
+/downloads/
+/crash-reports/
+__pycache__/
+*.pyc
 
-  # macOS
-  .DS_Store
+# macOS
+.DS_Store

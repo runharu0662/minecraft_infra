@@ -1,0 +1,6 @@
+level-name=imported-world
+online-mode=true
+max-players=5
+white-list=true
+enforce-whitelist=true
+enable-rcon=false

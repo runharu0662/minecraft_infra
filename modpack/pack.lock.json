@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "archive_sha256": "53cb66af7b0a4d4ef1588e376ee1bab981565d87d3cbc0e4d1827ccfe1d142aa",
+  "minecraft": "1.20.1",
+  "forge": "47.4.10",
+  "manifest_sha256": "dee7632a27b4717d4906942bdb0352bb5e1fb16cf65fde21c1fb21e0d76d8c55",
+  "references": 39,
+  "required": 38,
+  "overrides_files": {
+    "config": 227,
+    "tacz": 3324
+  }
+}

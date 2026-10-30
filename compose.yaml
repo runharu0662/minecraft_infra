@@ -1,12 +1,82 @@
 services:
   minecraft:
-    image: itzg/minecraft-server:java17
+    image: ${MINECRAFT_IMAGE:?Set a tested Java 17 image digest}
+    entrypoint: ["/bin/sh", "/migration/require-world.sh"]
+    restart: "no"
+    stop_grace_period: 2m
     environment:
-      TYPE: "FORGE"
-      VERSION: "1.20.1"
+      TYPE: "AUTO_CURSEFORGE"
+      VERSION: ${MINECRAFT_VERSION:?Match source Minecraft version}
+      FORGE_VERSION: ${FORGE_VERSION:?Match source Forge version}
       EULA: "TRUE"
       MEMORY: "8G"
+      LEVEL: ${WORLD_NAME:?Set imported world directory name}
+      SKIP_SERVER_PROPERTIES: "true"
+      UID: ${MC_UID:-1000}
+      GID: ${MC_GID:-1000}
+      CF_SLUG: "private-server"
+      CF_MODPACK_ZIP: /modpack/server-pack.zip
+      CF_API_KEY: ${CF_API_KEY:-}
+      CF_EXCLUDE_INCLUDE_FILE: /migration/exclude-include.json
+      CF_FORCE_SYNCHRONIZE: "false"
+      CF_FORCE_REINSTALL_MODLOADER: "false"
+      CF_OVERRIDES_SKIP_EXISTING: "true"
+      CF_DOWNLOADS_REPO: /downloads
+      MODPACK_VERIFIED_SHA256: ${MODPACK_VERIFIED_SHA256:-}
     ports:
       - "25565:25565"
     volumes:
-      - ./data:/data
+      - type: bind
+        source: ./data
+        target: /data
+        bind:
+          create_host_path: false
+      - ./scripts/require-world.sh:/migration/require-world.sh:ro
+      - ./modpack/server/pack.env:/migration/pack.env:ro
+      - ./modpack/exclude-include.json:/migration/exclude-include.json:ro
+      - type: bind
+        source: ./staging/server-all-mods/server-pack.zip
+        target: /modpack/server-pack.zip
+        read_only: true
+        bind:
+          create_host_path: false
+      - type: bind
+        source: ./staging/server-all-mods/downloads
+        target: /downloads
+        read_only: true
+        bind:
+          create_host_path: false
+  # Download/install into private staging only. Never starts Minecraft.
+  modpack-prepare:
+    profiles: ["tools"]
+    image: ${MINECRAFT_IMAGE:?Set a tested Java 17 image digest}
+    entrypoint: ["/bin/sh", "/migration/prepare-only.sh"]
+    command:
+      - --slug=private-server
+      - --modpack-zip=/modpack/server-pack.zip
+      - --output-directory=/prepared
+      - --exclude-include-file=/migration/exclude-include.json
+      - --downloads-repo=/downloads
+    environment:
+      CF_API_KEY: ${CF_API_KEY:-}
+    volumes:
+      - ./scripts/prepare-only.sh:/migration/prepare-only.sh:ro
+      - ./modpack/server/pack.env:/migration/pack.env:ro
+      - type: bind
+        source: ./staging/server-all-mods/server-pack.zip
+        target: /modpack/server-pack.zip
+        read_only: true
+        bind:
+          create_host_path: false
+      - ./modpack/exclude-include.json:/migration/exclude-include.json:ro
+      - type: bind
+        source: ./staging/server-all-mods/downloads
+        target: /downloads
+        read_only: true
+        bind:
+          create_host_path: false
+      - type: bind
+        source: ./staging/server-all-mods/prepared
+        target: /prepared
+        bind:
+          create_host_path: false

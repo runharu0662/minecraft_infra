@@ -1,0 +1,1192 @@
+{
+  "top_level_jars": 38,
+  "jars": [
+    {
+      "jar": "Atlas Lib-1.20.1-1.1.12.jar",
+      "sha256": "8cc9b5b46e65affed0c38aa54da6870ec4e820364c654c4dd2bb70a94ba39c50",
+      "mods": [
+        {
+          "id": "atlaslib",
+          "version": "1.1.12"
+        }
+      ]
+    },
+    {
+      "jar": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+      "sha256": "43ccfd91c1a24d1b3c9d3ccf2dd6a86e9f0c2ba442b111a2238fbff3cf88af11",
+      "mods": [
+        {
+          "id": "attributefix",
+          "version": "21.0.5"
+        }
+      ]
+    },
+    {
+      "jar": "CodeChickenLib-1.20.1-4.4.0.528-universal.jar",
+      "sha256": "754240e1cd05caaf511a808ddf6fc74ece68a8fca7d94548d9ac967287f7960d",
+      "mods": [
+        {
+          "id": "codechickenlib",
+          "version": "4.4.0.528"
+        }
+      ]
+    },
+    {
+      "jar": "EndingLibrary-1.20.1-2.1.19fix-all.jar",
+      "sha256": "0e29af51dabd4e0ea8a315c1886e61f3abee62045f196eb6913d7f4dba6cdc34",
+      "mods": [
+        {
+          "id": "ending_library",
+          "version": "2.1.19fix"
+        }
+      ]
+    },
+    {
+      "jar": "EndingLibrary-1.20.1-2.1.19fix-all.jar!/META-INF/jarjar/mixinextras-forge-0.4.1.jar",
+      "sha256": "9d48cb0a40299d283248fdad8b02c6d175c45b27f9bec48ef63d7ee8a4ee3066",
+      "mods": [
+        {
+          "id": "mixinextras",
+          "version": "0.4.1"
+        }
+      ]
+    },
+    {
+      "jar": "EndingLibrary-1.20.1-2.1.19fix-all.jar!/META-INF/jarjar/playerAnimator-658587-4587214.jar",
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+      "mods": [
+        {
+          "id": "playeranimator",
+          "version": "1.0.2-rc1+1.20"
+        }
+      ]
+    },
+    {
+      "jar": "EpicSiegeMod-14.171.jar",
+      "sha256": "09719deb1d32880c188348442aa975d4a0d932f5a26a6de3737e0f2dadbf997a",
+      "mods": [
+        {
+          "id": "epicsiegemod",
+          "version": "14.171"
+        }
+      ]
+    },
+    {
+      "jar": "FarmersDelight-1.20.1-1.3.4.jar",
+      "sha256": "34f03eb671ea1ca579b00c98e4541404cb96d1a292014aed9cc5eb45ad8afbce",
+      "mods": [
+        {
+          "id": "farmersdelight",
+          "version": "1.20.1-1.3.4"
+        }
+      ]
+    },
+    {
+      "jar": "FarmersDelight-1.20.1-1.3.4.jar!/META-INF/jarjar/mixinextras-forge-0.3.6.jar",
+      "sha256": "66eeeea6d1751c9f8f3abd32938fe5ee8113ae1a2730a9a29489300ffe02dd0f",
+      "mods": [
+        {
+          "id": "mixinextras",
+          "version": "0.3.6"
+        }
+      ]
+    },
+    {
+      "jar": "Jade-1.20.1-Forge-11.13.3.jar",
+      "sha256": "a632c77975e5aedff6322b0072f8b0db3f5d4bf914df6bdcc87d1aea4d5f55f4",
+      "mods": [
+        {
+          "id": "jade",
+          "version": "11.13.3+forge"
+        }
+      ]
+    },
+    {
+      "jar": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
+      "mods": [
+        {
+          "id": "octolib",
+          "version": "0.5.0.1"
+        }
+      ]
+    },
+    {
+      "jar": "PassiveSkillTree-1.20.1-BETA-0.7.6e-all.jar",
+      "sha256": "dc16e0695711d098d8b80addf7220ed46c5526a429efbcbcc12f1b739c8446e6",
+      "mods": [
+        {
+          "id": "skilltree",
+          "version": "0.7.6e"
+        }
+      ]
+    },
+    {
+      "jar": "PassiveSkillTree-1.20.1-BETA-0.7.6e-all.jar!/META-INF/jarjar/mixinextras-forge-0.3.2.jar",
+      "sha256": "cb078c47017c2caed5f9a3a6dbcbaa7879d4814430c6581ad8acbe82ad174998",
+      "mods": [
+        {
+          "id": "mixinextras",
+          "version": "0.3.2"
+        }
+      ]
+    },
+    {
+      "jar": "Patchouli-1.20.1-85-FORGE.jar",
+      "sha256": "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5",
+      "mods": [
+        {
+          "id": "patchouli",
+          "version": "1.20.1-85-FORGE"
+        }
+      ]
+    },
+    {
+      "jar": "The-Hordes-1.20.1-1.6.3i-all.jar",
+      "sha256": "f3f7cb25540cb0b86eb5ccea220b8684953e56fea3764b0dcd7678aadd4276c7",
+      "mods": [
+        {
+          "id": "hordes",
+          "version": "1.6.3g"
+        }
+      ]
+    },
+    {
+      "jar": "The-Hordes-1.20.1-1.6.3i-all.jar!/META-INF/jarjar/mixinextras-forge-0.3.5.jar",
+      "sha256": "edf39b18f803e6201abc7a7c583dd0c9aebb1c638f4e64170505b4837fac8967",
+      "mods": [
+        {
+          "id": "mixinextras",
+          "version": "0.3.5"
+        }
+      ]
+    },
+    {
+      "jar": "The_Undergarden-1.20.1-0.8.14.jar",
+      "sha256": "43029e388ab455f8c9bcfc8653b9a57a3eb1ff6b435cf6e58722d2d4c50d2444",
+      "mods": [
+        {
+          "id": "undergarden",
+          "version": "0.8.14"
+        }
+      ]
+    },
+    {
+      "jar": "[1.20.1] SecurityCraft v1.10.2.1.jar",
+      "sha256": "f7c637b291cccd2c4a4f94048a6d08a48065c0618fec03043d6f9e15af27948a",
+      "mods": [
+        {
+          "id": "securitycraft",
+          "version": "1.10.2.1"
+        }
+      ]
+    },
+    {
+      "jar": "alltheleaks-1.1.4+1.20.1-forge.jar",
+      "sha256": "fb72063a7d17df97740d24355444ef2f95eab97728e1256c639bb432c61b7716",
+      "mods": [
+        {
+          "id": "alltheleaks",
+          "version": "1.1.4+1.20.1-forge"
+        }
+      ]
+    },
+    {
+      "jar": "alltheleaks-1.1.4+1.20.1-forge.jar!/META-INF/jarjar/gcpath-api-0.1.0-SNAPSHOT.jar",
+      "sha256": "048a05643462ea8b87feed7a55eee2e3a1c248b75b61c93acee9bc84eea3e3b7",
+      "mods": []
+    },
+    {
+      "jar": "alltheleaks-1.1.4+1.20.1-forge.jar!/META-INF/jarjar/gcpath-capture-0.1.0-SNAPSHOT.jar",
+      "sha256": "fd25e053ad4279fd6ed7c752bd7d14452aaf874c859c5a68e5d6cc8aba2cc973",
+      "mods": []
+    },
+    {
+      "jar": "alltheleaks-1.1.4+1.20.1-forge.jar!/META-INF/jarjar/gcpath-protocol-0.1.0-SNAPSHOT.jar",
+      "sha256": "6f61a0c56306a6932fd2a5c81ef2b845eacbcd005e2c85834d1c4b9d8046675d",
+      "mods": []
+    },
+    {
+      "jar": "alltheleaks-1.1.4+1.20.1-forge.jar!/META-INF/jarjar/mixinextras-forge-0.5.0.jar",
+      "sha256": "12eed47509e3733a59135a52edd8a90807332248d292b7f1668afd42407ca01d",
+      "mods": []
+    },
+    {
+      "jar": "alltheleaks-1.1.4+1.20.1-forge.jar!/META-INF/jarjar/mixinsquared-forge-0.3.6-beta.1.jar",
+      "sha256": "778bb6ed23de986e295f14f9044609baf321961a54970fc9ed7f2d2d096aab3c",
+      "mods": [
+        {
+          "id": "mixinsquared",
+          "version": "0.3.6-beta.1"
+        }
+      ]
+    },
+    {
+      "jar": "appliedenergistics2-forge-15.4.11.jar",
+      "sha256": "f2ff9ee5122b037d4e93537425ab9fbe49860fc9c3977db13b20a50ca7d30f9e",
+      "mods": [
+        {
+          "id": "ae2",
+          "version": "15.4.11"
+        }
+      ]
+    },
+    {
+      "jar": "blue_skies-1.20.1-1.3.31.jar",
+      "sha256": "dda5351a7d75f8074e9878912140fd5ab2fe4e74d7678d4f9c52c0b86bce9748",
+      "mods": [
+        {
+          "id": "blue_skies",
+          "version": "1.3.31"
+        }
+      ]
+    },
+    {
+      "jar": "endrem_forge-5.3.3-R-1.20.1.jar",
+      "sha256": "19295ca4a798f2e813f359fa376f586bc57fadacd78b7e32440257f9f8bf2557",
+      "mods": [
+        {
+          "id": "endrem",
+          "version": "5.3.3-R-1.20.1"
+        }
+      ]
+    },
+    {
+      "jar": "fantasy_ending-1.20.1-2.7.20-all.jar",
+      "sha256": "e32fd4ba2e48fcf2c84f71aa07155c63d6bfa2178bb840899307da0da5e5d141",
+      "mods": [
+        {
+          "id": "fantasy_ending",
+          "version": "2.7.20"
+        }
+      ]
+    },
+    {
+      "jar": "fantasy_ending-1.20.1-2.7.20-all.jar!/META-INF/jarjar/agent-any-1.0.jar",
+      "sha256": "d0addefe02a18d19f1510d82e23680490e5532e08f8e68736a33fd4d8920b526",
+      "mods": []
+    },
+    {
+      "jar": "fantasy_ending-1.20.1-2.7.20-all.jar!/META-INF/jarjar/mixinextras-forge-0.4.1.jar",
+      "sha256": "9d48cb0a40299d283248fdad8b02c6d175c45b27f9bec48ef63d7ee8a4ee3066",
+      "mods": [
+        {
+          "id": "mixinextras",
+          "version": "0.4.1"
+        }
+      ]
+    },
+    {
+      "jar": "ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "mods": [
+        {
+          "id": "ferritecore",
+          "version": "6.0.1"
+        }
+      ]
+    },
+    {
+      "jar": "irons_lib-1.20.1-2.3.0.jar",
+      "sha256": "85f606530258f7a37b73f6138da0aeb512f3aa9fe7b5253fb15b0b670fa1862f",
+      "mods": [
+        {
+          "id": "irons_lib",
+          "version": "1.20.1-2.3.0"
+        }
+      ]
+    },
+    {
+      "jar": "irons_lib-1.20.1-2.3.0.jar!/META-INF/jarjar/mixinextras-forge-0.5.5.jar",
+      "sha256": "42564e02756fbdf78e1f1fd2115fe2d01fb42497ba3be2a3c261da2058122533",
+      "mods": []
+    },
+    {
+      "jar": "irons_spellbooks-1.20.1-3.16.3.jar",
+      "sha256": "54b5aaa52887c38f570fbd820288171234d8541c17a5e953f9271189fdd480fb",
+      "mods": [
+        {
+          "id": "irons_spellbooks",
+          "version": "1.20.1-3.16.3"
+        }
+      ]
+    },
+    {
+      "jar": "jei-1.20.1-forge-15.74.0.229.jar",
+      "sha256": "30ef5c374dd23e3a7e7472b41b7479e673ab27d89fd5269a6cc6f7aeb563836a",
+      "mods": [
+        {
+          "id": "jei",
+          "version": "15.74.0.229"
+        }
+      ]
+    },
+    {
+      "jar": "jei-1.20.1-forge-15.74.0.229.jar!/META-INF/jarjar/mezz_config-1.20.1-forge-0.6.6.jar",
+      "sha256": "608f2dd86e53cdb93370772bf39e588535570c69fc3915e31b36d9de1e6595d4",
+      "mods": [
+        {
+          "id": "mezz_config",
+          "version": "0.6.6"
+        }
+      ]
+    },
+    {
+      "jar": "kotlinforforge-4.12.0-all.jar",
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae",
+      "mods": []
+    },
+    {
+      "jar": "kotlinforforge-4.12.0-all.jar!/META-INF/jarjar/kfflang-4.12.0.jar",
+      "sha256": "ae39deb1f0766f12c21d5e25476f36aa68f434ae70ef8c1c2391f97b84e5dae3",
+      "mods": []
+    },
+    {
+      "jar": "kotlinforforge-4.12.0-all.jar!/META-INF/jarjar/kfflib-4.12.0.jar",
+      "sha256": "67e946af7a85ffaebd28b2a2ba88a998fc082c016a3d201ccc5b677395da0ae5",
+      "mods": []
+    },
+    {
+      "jar": "kotlinforforge-4.12.0-all.jar!/META-INF/jarjar/kffmod-4.12.0.jar",
+      "sha256": "007d01bead461011be3774a3edf858314e0324023270f06d008834a7a404ee71",
+      "mods": [
+        {
+          "id": "kotlinforforge",
+          "version": "4.12.0"
+        }
+      ]
+    },
+    {
+      "jar": "majrusz-library-forge-1.20.1-7.0.8.jar",
+      "sha256": "4d58fc2db26343d6b163dbb8f8c98e554ada6fffb634b9896c2d274629090548",
+      "mods": [
+        {
+          "id": "majruszlibrary",
+          "version": "7.0.8"
+        }
+      ]
+    },
+    {
+      "jar": "majruszs-difficulty-forge-1.20.1-1.9.10.jar",
+      "sha256": "3a47dee789e49050e2819e1c173c7fc4d8020a8604e7ed9afb4017a941ba86f3",
+      "mods": [
+        {
+          "id": "majruszsdifficulty",
+          "version": "1.9.10"
+        }
+      ]
+    },
+    {
+      "jar": "mezz_config-1.20.1-forge-0.6.9.jar",
+      "sha256": "556460469e7561158676d9fa361dcc78be26d93dd422a3033dfa028739ec0b71",
+      "mods": [
+        {
+          "id": "mezz_config",
+          "version": "0.6.9"
+        }
+      ]
+    },
+    {
+      "jar": "modernfix-forge-5.27.91+mc1.20.1.jar",
+      "sha256": "b42fe87fd5ffa46f7db56c6cee01b08dea362baf4cc56a70db40d928773b5000",
+      "mods": [
+        {
+          "id": "modernfix",
+          "version": "5.27.91+mc1.20.1"
+        }
+      ]
+    },
+    {
+      "jar": "modernfix-forge-5.27.91+mc1.20.1.jar!/META-INF/jarjar/mixinextras-forge-0.4.1.jar",
+      "sha256": "9d48cb0a40299d283248fdad8b02c6d175c45b27f9bec48ef63d7ee8a4ee3066",
+      "mods": [
+        {
+          "id": "mixinextras",
+          "version": "0.4.1"
+        }
+      ]
+    },
+    {
+      "jar": "nether_remastered-2.6-forge-1.20.1.jar",
+      "sha256": "3d02aeb0cf1ceebf1be6b20627c386c62bee2d83351fc274331749e228d2ac53",
+      "mods": [
+        {
+          "id": "nether_remastered",
+          "version": "2.6"
+        }
+      ]
+    },
+    {
+      "jar": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "sha256": "12f96ecb8e61e0b3d3f0ca5701f479904904501dd251aa7bb60205afdf6bc2ce",
+      "mods": [
+        {
+          "id": "packetfixer",
+          "version": "3.3.2"
+        }
+      ]
+    },
+    {
+      "jar": "polymorph-forge-0.49.11+1.20.1.jar",
+      "sha256": "cb633f3a3220ccfd00efbb57fb37bf7be44b5266195103af26add462fa71d86a",
+      "mods": [
+        {
+          "id": "polymorph",
+          "version": "0.49.11+1.20.1"
+        }
+      ]
+    },
+    {
+      "jar": "polymorph-forge-0.49.11+1.20.1.jar!/META-INF/jarjar/spectrelib-forge-0.13.17+1.20.1.jar",
+      "sha256": "0e2b29d9a55eeaf6196b284b4a964f917254c4102152c328bf82f58b52ade389",
+      "mods": [
+        {
+          "id": "spectrelib",
+          "version": "0.13.17+1.20.1"
+        }
+      ]
+    },
+    {
+      "jar": "rarcompat-1.20.1-0.5.jar",
+      "sha256": "2de2a9cfd21edf676072ca7432ff9acdd28f8e077fcac90a46d3dea8f82bf9f1",
+      "mods": [
+        {
+          "id": "rarcompat",
+          "version": "0.5"
+        }
+      ]
+    },
+    {
+      "jar": "relics-1.20.1-0.8.0.13.jar",
+      "sha256": "2731d3b81533564c5d206faf94e4e8afaf928d97b47b720e5d6aaa017333096f",
+      "mods": [
+        {
+          "id": "relics",
+          "version": "0.8.0.13"
+        }
+      ]
+    },
+    {
+      "jar": "solcarrot-1.20.1-1.15.1.jar",
+      "sha256": "629d6744c8d856c51c74c66eba4c252c6d62d392dbaf5b24ea690cd8f081e679",
+      "mods": [
+        {
+          "id": "solcarrot",
+          "version": "1.15.1"
+        }
+      ]
+    },
+    {
+      "jar": "sophisticatedbackpacks-1.20.1-3.26.15.2228.jar",
+      "sha256": "454733421e8d57ce6f16dae6317c8e25135cb36f26c9ba1b6f6f21bb6ca7b276",
+      "mods": [
+        {
+          "id": "sophisticatedbackpacks",
+          "version": "3.26.15.2228"
+        }
+      ]
+    },
+    {
+      "jar": "sophisticatedcore-1.20.1-1.5.16.2433.jar",
+      "sha256": "aa54a9a20915d961eef2714e7c4e425aeea8527001a98f3e23e79d6fbbb38588",
+      "mods": [
+        {
+          "id": "sophisticatedcore",
+          "version": "1.5.16.2433"
+        }
+      ]
+    },
+    {
+      "jar": "structure_gel-1.20.1-2.16.2.jar",
+      "sha256": "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e",
+      "mods": [
+        {
+          "id": "structure_gel",
+          "version": "2.16.2"
+        }
+      ]
+    },
+    {
+      "jar": "tacz-1.20.1-1.1.8-hotfix2.jar",
+      "sha256": "2cbb89f44333d2eb4e825d86d789ff119b272ff75184390b55bafd4f0e7f10c2",
+      "mods": [
+        {
+          "id": "tacz",
+          "version": "1.1.8-hotfix2"
+        }
+      ]
+    },
+    {
+      "jar": "tacz-1.20.1-1.1.8-hotfix2.jar!/META-INF/jarjar/bcel-6.6.1.jar",
+      "sha256": "50e909f555c772285d0f282d22ec7ca246010fa6996d40226357a28555445904",
+      "mods": []
+    },
+    {
+      "jar": "tacz-1.20.1-1.1.8-hotfix2.jar!/META-INF/jarjar/commons-math3-3.6.1.jar",
+      "sha256": "1e56d7b058d28b65abd256b8458e3885b674c1d588fa43cd7d1cbb9c7ef2b308",
+      "mods": []
+    },
+    {
+      "jar": "tacz-1.20.1-1.1.8-hotfix2.jar!/META-INF/jarjar/luaj-core-3.0.8-figura.jar",
+      "sha256": "6050678ca1dad5e2a4c401cc9ce968d282d30105b2ea46f79c30abccdfa30fbe",
+      "mods": []
+    },
+    {
+      "jar": "tacz-1.20.1-1.1.8-hotfix2.jar!/META-INF/jarjar/luaj-jse-3.0.8-figura.jar",
+      "sha256": "1783d249b5152c6f110c1bcca5fb0d4ef0075fc291c912f6b74e2bb61472e95e",
+      "mods": []
+    },
+    {
+      "jar": "tacz-1.20.1-1.1.8-hotfix2.jar!/META-INF/jarjar/mixinextras-forge-0.3.6.jar",
+      "sha256": "66eeeea6d1751c9f8f3abd32938fe5ee8113ae1a2730a9a29489300ffe02dd0f",
+      "mods": [
+        {
+          "id": "mixinextras",
+          "version": "0.3.6"
+        }
+      ]
+    },
+    {
+      "jar": "tacz-1.20.1-1.1.8-hotfix2.jar!/META-INF/jarjar/simplebedrockmodel-2.2.2-forge+mc1.20.1.jar",
+      "sha256": "88d8b6d4d59c7a706caaedd3712ef74e51204d803d6a23118e5d463df0e656da",
+      "mods": [
+        {
+          "id": "simplebedrockmodel",
+          "version": "2.2.2-forge+mc1.20.1"
+        }
+      ]
+    },
+    {
+      "jar": "tacz-1.20.1-1.1.8-hotfix2.jar!/META-INF/jarjar/simplebedrockmodel-2.2.2-forge+mc1.20.1.jar!/META-INF/jarjar/mae-1.1.2.jar",
+      "sha256": "39e6337f1214a9facadc9128d2aca501be36789d376d7fba56f15b2c3a5a27d3",
+      "mods": []
+    },
+    {
+      "jar": "tacz_turrets-forge-3.0.1-1.20.1.jar",
+      "sha256": "35026e8d1246573959e2d1d4c1c885a2a1b0451da327a2f0d69a4f89cdf11730",
+      "mods": [
+        {
+          "id": "tacz_turrets",
+          "version": "3.0.1"
+        }
+      ]
+    }
+  ],
+  "mandatory_server_dependencies": [
+    {
+      "owner": "codechickenlib",
+      "id": "forge",
+      "range": "[47.1.65,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "codechickenlib",
+      "id": "minecraft",
+      "range": "[1.20.1]",
+      "side": "BOTH"
+    },
+    {
+      "owner": "ending_library",
+      "id": "forge",
+      "range": "[47,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "ending_library",
+      "id": "minecraft",
+      "range": "[1.20.1,1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "playeranimator",
+      "id": "minecraft",
+      "range": "[1.20,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "epicsiegemod",
+      "id": "minecraft",
+      "range": "[1.20,1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "farmersdelight",
+      "id": "forge",
+      "range": "[47.1.0,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "farmersdelight",
+      "id": "minecraft",
+      "range": "[1.20,1.20.1]",
+      "side": "BOTH"
+    },
+    {
+      "owner": "jade",
+      "id": "forge",
+      "range": "[46, )",
+      "side": "BOTH"
+    },
+    {
+      "owner": "octolib",
+      "id": "forge",
+      "range": "[47,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "octolib",
+      "id": "minecraft",
+      "range": "[1.20.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "octolib",
+      "id": "architectury",
+      "range": "[9.2.14,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "skilltree",
+      "id": "forge",
+      "range": "[47,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "skilltree",
+      "id": "minecraft",
+      "range": "[1.20.1,1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "skilltree",
+      "id": "attributefix",
+      "range": "[21.0.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "patchouli",
+      "id": "forge",
+      "range": "[47.1.3,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "patchouli",
+      "id": "minecraft",
+      "range": "[1.20.1,1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "hordes",
+      "id": "atlaslib",
+      "range": "[1.1.12,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "undergarden",
+      "id": "forge",
+      "range": "[47,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "undergarden",
+      "id": "minecraft",
+      "range": "[1.20,1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "securitycraft",
+      "id": "forge",
+      "range": "[47.3.30,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "securitycraft",
+      "id": "minecraft",
+      "range": "[1.20,1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "alltheleaks",
+      "id": "forge",
+      "range": "[47.2.0,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "alltheleaks",
+      "id": "minecraft",
+      "range": "[1.20.1,1.20.2)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "ae2",
+      "id": "forge",
+      "range": "[47.1.3,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "ae2",
+      "id": "minecraft",
+      "range": "[1.20.1,1.20.2)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "ae2",
+      "id": "guideme",
+      "range": "[20.1.7,20.2.0)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "blue_skies",
+      "id": "forge",
+      "range": "[47.1.0,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "blue_skies",
+      "id": "minecraft",
+      "range": "[1.20.1,1.21]",
+      "side": "BOTH"
+    },
+    {
+      "owner": "blue_skies",
+      "id": "structure_gel",
+      "range": "[2.13.0,]",
+      "side": "BOTH"
+    },
+    {
+      "owner": "endrem",
+      "id": "forge",
+      "range": "[46,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "endrem",
+      "id": "minecraft",
+      "range": "[1.20, 1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "fantasy_ending",
+      "id": "forge",
+      "range": "[47,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "fantasy_ending",
+      "id": "minecraft",
+      "range": "[1.20.1,1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "fantasy_ending",
+      "id": "curios",
+      "range": "[5.4.5,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "fantasy_ending",
+      "id": "irons_spellbooks",
+      "range": "[1.20.1-3.15.3,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "ferritecore",
+      "id": "forge",
+      "range": "[46.0.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "ferritecore",
+      "id": "minecraft",
+      "range": "[1.20,1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "irons_lib",
+      "id": "forge",
+      "range": "[47.4.0,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "irons_lib",
+      "id": "geckolib",
+      "range": "[1.20.1:4.8.2,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "irons_spellbooks",
+      "id": "forge",
+      "range": "[47.4.0,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "irons_spellbooks",
+      "id": "playeranimator",
+      "range": "[1.0.2-rc1+1.20,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "irons_spellbooks",
+      "id": "geckolib",
+      "range": "[1.20.1:4.8.2,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "irons_spellbooks",
+      "id": "curios",
+      "range": "[5.14.1+1.20.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "irons_spellbooks",
+      "id": "irons_lib",
+      "range": "[1.20.1-2,1.20.1-3)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "jei",
+      "id": "mezz_config",
+      "range": "[0.6.3,1.0.0)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "jei",
+      "id": "forge",
+      "range": "[47.0,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "jei",
+      "id": "minecraft",
+      "range": "[1.20.1, 1.20.2)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "mezz_config",
+      "id": "forge",
+      "range": "[47.0,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "mezz_config",
+      "id": "minecraft",
+      "range": "[1.20.1]",
+      "side": "BOTH"
+    },
+    {
+      "owner": "kotlinforforge",
+      "id": "minecraft",
+      "range": "[1.19.3,1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "majruszlibrary",
+      "id": "forge",
+      "range": "[47.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "majruszlibrary",
+      "id": "minecraft",
+      "range": "[1.20.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "majruszsdifficulty",
+      "id": "forge",
+      "range": "[47.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "majruszsdifficulty",
+      "id": "minecraft",
+      "range": "[1.20.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "majruszsdifficulty",
+      "id": "majruszlibrary",
+      "range": "[7.0.2,8.0.0)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "mezz_config",
+      "id": "forge",
+      "range": "[47.0,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "mezz_config",
+      "id": "minecraft",
+      "range": "[1.20.1]",
+      "side": "BOTH"
+    },
+    {
+      "owner": "modernfix",
+      "id": "forge",
+      "range": "[46.0.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "modernfix",
+      "id": "minecraft",
+      "range": "[1.20, 1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "nether_remastered",
+      "id": "minecraft",
+      "range": "[1.20.1]",
+      "side": "BOTH"
+    },
+    {
+      "owner": "packetfixer",
+      "id": "minecraft",
+      "range": "[1.18,1.20.4]",
+      "side": "BOTH"
+    },
+    {
+      "owner": "polymorph",
+      "id": "forge",
+      "range": "[46,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "polymorph",
+      "id": "minecraft",
+      "range": "[1.20,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "spectrelib",
+      "id": "forge",
+      "range": "[46,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "spectrelib",
+      "id": "minecraft",
+      "range": "[1.20,1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "rarcompat",
+      "id": "minecraft",
+      "range": "[1.20.1,1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "rarcompat",
+      "id": "forge",
+      "range": "[47,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "rarcompat",
+      "id": "curios",
+      "range": "[5.2.0+1.20.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "rarcompat",
+      "id": "octolib",
+      "range": "[0.3,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "rarcompat",
+      "id": "artifacts",
+      "range": "[9.5.13,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "rarcompat",
+      "id": "relics",
+      "range": "[0.8.0.7,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "relics",
+      "id": "minecraft",
+      "range": "[1.20.1,1.21)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "relics",
+      "id": "forge",
+      "range": "[47,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "relics",
+      "id": "curios",
+      "range": "[5.2.0+1.20.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "relics",
+      "id": "octolib",
+      "range": "[0.4.2,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "solcarrot",
+      "id": "forge",
+      "range": "[47,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "sophisticatedbackpacks",
+      "id": "forge",
+      "range": "[47.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "sophisticatedbackpacks",
+      "id": "sophisticatedcore",
+      "range": "[1.5.16.+,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "sophisticatedcore",
+      "id": "forge",
+      "range": "[47.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "structure_gel",
+      "id": "forge",
+      "range": "[47.1.0,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "structure_gel",
+      "id": "minecraft",
+      "range": "1.20.1",
+      "side": "BOTH"
+    },
+    {
+      "owner": "tacz",
+      "id": "forge",
+      "range": "[46,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "tacz",
+      "id": "minecraft",
+      "range": "[1.20,1.20.2)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "simplebedrockmodel",
+      "id": "forge",
+      "range": "[47,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "simplebedrockmodel",
+      "id": "minecraft",
+      "range": "[1.20,1.20.1]",
+      "side": "BOTH"
+    },
+    {
+      "owner": "tacz_turrets",
+      "id": "forge",
+      "range": "[47,48)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "tacz_turrets",
+      "id": "minecraft",
+      "range": "[1.20.1,1.20.2)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "tacz_turrets",
+      "id": "tacz",
+      "range": "[1.1.7-hotfix2,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "tacz_turrets",
+      "id": "smartbrainlib",
+      "range": "[1.15,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "tacz_turrets",
+      "id": "geckolib",
+      "range": "[4.8.3,)",
+      "side": "BOTH"
+    }
+  ],
+  "missing_ids": [
+    {
+      "owner": "octolib",
+      "id": "architectury",
+      "range": "[9.2.14,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "ae2",
+      "id": "guideme",
+      "range": "[20.1.7,20.2.0)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "fantasy_ending",
+      "id": "curios",
+      "range": "[5.4.5,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "irons_lib",
+      "id": "geckolib",
+      "range": "[1.20.1:4.8.2,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "irons_spellbooks",
+      "id": "geckolib",
+      "range": "[1.20.1:4.8.2,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "irons_spellbooks",
+      "id": "curios",
+      "range": "[5.14.1+1.20.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "rarcompat",
+      "id": "curios",
+      "range": "[5.2.0+1.20.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "rarcompat",
+      "id": "artifacts",
+      "range": "[9.5.13,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "relics",
+      "id": "curios",
+      "range": "[5.2.0+1.20.1,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "tacz_turrets",
+      "id": "smartbrainlib",
+      "range": "[1.15,)",
+      "side": "BOTH"
+    },
+    {
+      "owner": "tacz_turrets",
+      "id": "geckolib",
+      "range": "[4.8.3,)",
+      "side": "BOTH"
+    }
+  ],
+  "limitations": "Presence check only. Version ranges, compatibility, client-only code and world integrity need review/testing."
+}

@@ -1,0 +1,2447 @@
+[
+  {
+    "projectID": 967560,
+    "fileID": 5063173,
+    "required": true,
+    "fileName": "nophantoms-0.1.jar",
+    "displayName": "NoPhantoms-1.20.1-0.1",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "d44582f33a028f926d7f55aa86025b6e8a011750",
+        "algo": 1
+      },
+      {
+        "value": "e9572bb5688d9c32cacb67e15aa29edb",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "02b5a335da713fe392ecbf1ac2f83417ad37f56b60b6ab86e78bde300f2237d3"
+  },
+  {
+    "projectID": 689467,
+    "fileID": 7872374,
+    "required": true,
+    "fileName": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+    "displayName": "Packet Fixer 3.3.2",
+    "gameVersions": [
+      "1.18.1",
+      "Client",
+      "1.19.3",
+      "1.20.2",
+      "1.19.4",
+      "Fabric",
+      "1.18",
+      "1.20.1",
+      "Forge",
+      "1.20",
+      "1.19.1",
+      "1.20.4",
+      "1.18.2",
+      "1.19.2",
+      "NeoForge",
+      "1.20.3",
+      "Server",
+      "Quilt",
+      "1.19"
+    ],
+    "hashes": [
+      {
+        "value": "79ebc5e66a5ee3ce92afb340e693d506e97361a0",
+        "algo": 1
+      },
+      {
+        "value": "494234194e4ce530719281d558510cf5",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "12f96ecb8e61e0b3d3f0ca5701f479904904501dd251aa7bb60205afdf6bc2ce"
+  },
+  {
+    "projectID": 404183,
+    "fileID": 5598990,
+    "required": true,
+    "fileName": "endrem_forge-5.3.3-R-1.20.1.jar",
+    "displayName": "End Remastered 1.20.X R5.3.3 [Forge]",
+    "gameVersions": [
+      "1.20.2",
+      "Client",
+      "1.20.3",
+      "1.20.1",
+      "Forge",
+      "1.20.4",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "b4df41de8439e834a493fe59842709ef33ecfa82",
+        "algo": 1
+      },
+      {
+        "value": "1de1aa97b353be8fe243f3a60cfc902e",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "19295ca4a798f2e813f359fa376f586bc57fadacd78b7e32440257f9f8bf2557"
+  },
+  {
+    "projectID": 336184,
+    "fileID": 5600004,
+    "required": true,
+    "fileName": "EnigmaticLegacy-2.30.1.jar",
+    "displayName": "EnigmaticLegacy-2.30.1.jar",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "8aa671114aee6d8ec1e3aac5c13dab84224bf2bb",
+        "algo": 1
+      },
+      {
+        "value": "22d085db3f9b02423e608a942c50a823",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 306770
+      },
+      {
+        "relationType": 3,
+        "modId": 308989
+      },
+      {
+        "relationType": 3,
+        "modId": 309927
+      }
+    ],
+    "sha256": "cf8488350ccb03fdc5e1f3508a30137234b6dc85ea258b9ee37ceaa485f34024"
+  },
+  {
+    "projectID": 532727,
+    "fileID": 4601234,
+    "required": true,
+    "fileName": "libraryferret-forge-1.20.1-4.0.0.jar",
+    "displayName": "Library ferret 4.0.0 - Forge 1.20.1",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "29f240c16ff1a1bc574d69162d379cc1c881e1ab",
+        "algo": 1
+      },
+      {
+        "value": "68ba05aaf09f053934537af691e959df",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "355f5000b56d6f355338bd494fcdb822f36e29cf9e3c27ebcc7720402a804510"
+  },
+  {
+    "projectID": 288885,
+    "fileID": 5101229,
+    "required": true,
+    "fileName": "FastWorkbench-1.20.1-8.0.4.jar",
+    "displayName": "FastWorkbench-1.20.1-8.0.4.jar",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "1a322a85e7c7024b8a0715c12d27b5ed0930d729",
+        "algo": 1
+      },
+      {
+        "value": "2b55c4786cc726b0757689af28b97e7e",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 283644
+      }
+    ],
+    "sha256": "86d20c6879bf86ef76b3fd94998d3e5c3327acb5d5324b6eb0b5348354766620"
+  },
+  {
+    "projectID": 238372,
+    "fileID": 5838485,
+    "required": true,
+    "fileName": "Neat-1.20.1-41-FORGE.jar",
+    "displayName": "Neat-1.20.1-41-FORGE.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "32fe1c807ac0c6aed8045260934f1ba6dc491361",
+        "algo": 1
+      },
+      {
+        "value": "506cced5f0ddd6104de4d9a05f03a3c3",
+        "algo": 2
+      }
+    ],
+    "dependencies": []
+  },
+  {
+    "projectID": 855414,
+    "fileID": 8680180,
+    "required": true,
+    "fileName": "irons_spellbooks-1.20.1-3.16.3.jar",
+    "displayName": "v1.20.1-3.16.3",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "726345aa215756bd30b7cf8c338c9ae6bbc59799",
+        "algo": 1
+      },
+      {
+        "value": "80430dfbfab4af59e45ffb9d4d601762",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 1492763
+      },
+      {
+        "relationType": 3,
+        "modId": 658587
+      },
+      {
+        "relationType": 3,
+        "modId": 309927
+      },
+      {
+        "relationType": 3,
+        "modId": 388172
+      }
+    ],
+    "sha256": "54b5aaa52887c38f570fbd820288171234d8541c17a5e953f9271189fdd480fb"
+  },
+  {
+    "projectID": 872516,
+    "fileID": 8145294,
+    "required": true,
+    "fileName": "nether_remastered-2.6-forge-1.20.1.jar",
+    "displayName": "nether_remastered-2.6-forge-1.20.1",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "483af19db08554c2c8112353bcbd0ddfeabbeea3",
+        "algo": 1
+      },
+      {
+        "value": "39b63602d6f37e169ca0902517107abb",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "3d02aeb0cf1ceebf1be6b20627c386c62bee2d83351fc274331749e228d2ac53"
+  },
+  {
+    "projectID": 309927,
+    "fileID": 6418456,
+    "required": true,
+    "fileName": "curios-forge-5.14.1+1.20.1.jar",
+    "displayName": "curios-forge-5.14.1+1.20.1.jar",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge",
+      "1.20"
+    ],
+    "hashes": [
+      {
+        "value": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+        "algo": 1
+      },
+      {
+        "value": "2fdcc97cbc66c4b2492b407c792e7159",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+  },
+  {
+    "projectID": 916747,
+    "fileID": 6274623,
+    "required": true,
+    "fileName": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+    "displayName": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "9eab28baff36942e1c924489e34753df10f40208",
+        "algo": 1
+      },
+      {
+        "value": "6b2fd012966b13a96ce4f68ae42eab8c",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047"
+  },
+  {
+    "projectID": 659011,
+    "fileID": 5906086,
+    "required": true,
+    "fileName": "deeperdarker-forge-1.20.1-1.3.3.jar",
+    "displayName": "v1.3.3 for Forge 1.20.1",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "12f95fa85c62123140d1962702a97a3bb746bbf5",
+        "algo": 1
+      },
+      {
+        "value": "0a71e15737a134276edb310ea02db5f4",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "d07dc6155e0b751c7d1ec26dabb7284a41798c85e48b0d809fd1254e489ed455"
+  },
+  {
+    "projectID": 1689768,
+    "fileID": 9318716,
+    "required": true,
+    "fileName": "mezz_config-1.20.1-forge-0.6.9.jar",
+    "displayName": "MezzConfig 0.6.9 for Forge 1.20.1",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "09d05e80080eae9db7853fce71b22b56d2701e0f",
+        "algo": 1
+      },
+      {
+        "value": "1e758c001caeb59f91853c9f0b9d6267",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "556460469e7561158676d9fa361dcc78be26d93dd422a3033dfa028739ec0b71"
+  },
+  {
+    "projectID": 238222,
+    "fileID": 9298209,
+    "required": true,
+    "fileName": "jei-1.20.1-forge-15.74.0.229.jar",
+    "displayName": "15.74.0.229 for Forge 1.20.1",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "f3ef3096188703d5e5dcddea226cf8952cdf01ee",
+        "algo": 1
+      },
+      {
+        "value": "a2ab6da6292a3f6122fbc15893cb2d11",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 2,
+        "modId": 1700987
+      },
+      {
+        "relationType": 3,
+        "modId": 1689768
+      }
+    ],
+    "sha256": "30ef5c374dd23e3a7e7472b41b7479e673ab27d89fd5269a6cc6f7aeb563836a"
+  },
+  {
+    "projectID": 658587,
+    "fileID": 4587214,
+    "required": true,
+    "fileName": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+    "displayName": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+    "gameVersions": [
+      "1.20.1",
+      "Forge",
+      "1.20"
+    ],
+    "hashes": [
+      {
+        "value": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+        "algo": 1
+      },
+      {
+        "value": "46f8554181d4d240075ea4919d01fd01",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 2,
+        "modId": 623373
+      }
+    ],
+    "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+  },
+  {
+    "projectID": 574300,
+    "fileID": 7244744,
+    "required": true,
+    "fileName": "Applied-Mekanistics-1.4.3.jar",
+    "displayName": "1.4.3",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "8b37889d94b6c1ae5cd31ddde379a1c323c3c501",
+        "algo": 1
+      },
+      {
+        "value": "a7c6ad5511c4f60f2c8013bf55cae5a2",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 268560
+      },
+      {
+        "relationType": 3,
+        "modId": 223794
+      }
+    ],
+    "sha256": "e1aafd9c2ae1cab7bb6905ec61718aed41b9f07c05148c9a033e4bb886173d2c"
+  },
+  {
+    "projectID": 351264,
+    "fileID": 7291067,
+    "required": true,
+    "fileName": "kotlinforforge-4.12.0-all.jar",
+    "displayName": "Kotlin for Forge 4.12.0",
+    "gameVersions": [
+      "Client",
+      "1.19.3",
+      "1.20.2",
+      "1.19.4",
+      "1.20.1",
+      "Forge",
+      "1.20",
+      "1.20.4",
+      "NeoForge",
+      "1.20.3",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "962fdb760409d6d71cbf079235f1ca94e3863a22",
+        "algo": 1
+      },
+      {
+        "value": "d6a40dede74edbe646b34a1bafd53b4d",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
+  },
+  {
+    "projectID": 251730,
+    "fileID": 5179872,
+    "required": true,
+    "fileName": "Voidscape-1.20.1-1.5.389.jar",
+    "displayName": "Voidscape-1.20.1-1.5.389.jar",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "794b864e1dd1bab20b8cc3f16f729b649e61abee",
+        "algo": 1
+      },
+      {
+        "value": "93ca49c3ee47d1e46c3679b049110ba3",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "c3eb2cc621c035460652f71ecaa80f54db1bc69f8440538f904baf46a96411a8"
+  },
+  {
+    "projectID": 1420337,
+    "fileID": 7642083,
+    "required": true,
+    "fileName": "fantasy_ending-1.20.1-2.7.20-all.jar",
+    "displayName": "fantasy_ending-1.20.1-2.7.20-all.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "90c3e683bd222542dec2326122d743deee79712d",
+        "algo": 1
+      },
+      {
+        "value": "8c0ceffd7a94791aabe786f52691d32d",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 309927
+      },
+      {
+        "relationType": 3,
+        "modId": 855414
+      }
+    ],
+    "sha256": "e32fd4ba2e48fcf2c84f71aa07155c63d6bfa2178bb840899307da0da5e5d141"
+  },
+  {
+    "projectID": 324717,
+    "fileID": 8479276,
+    "required": true,
+    "fileName": "Jade-1.20.1-Forge-11.13.3.jar",
+    "displayName": "[Forge 1.20.1] 11.13.3",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "1.20",
+      "NeoForge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "d08e64e66521d69e083c8525f1fc507f1c202384",
+        "algo": 1
+      },
+      {
+        "value": "a53aade6b5915ebe8357abb68cf1f778",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 2,
+        "modId": 238222
+      }
+    ],
+    "sha256": "a632c77975e5aedff6322b0072f8b0db3f5d4bf914df6bdcc87d1aea4d5f55f4"
+  },
+  {
+    "projectID": 268566,
+    "fileID": 6552914,
+    "required": true,
+    "fileName": "MekanismGenerators-1.20.1-10.4.16.80.jar",
+    "displayName": "MekanismGenerators-1.20.1-10.4.16.80.jar",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "53fa707fd204ca1dd099a08995c2197145ff9a36",
+        "algo": 1
+      },
+      {
+        "value": "5ecedb27379b4543b28c0860f9c2fbf4",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 268560
+      }
+    ],
+    "sha256": "be2d5b8553f8638cfabf491002f95cef6acef210f627addb391f5af713502512"
+  },
+  {
+    "projectID": 419699,
+    "fileID": 5137938,
+    "required": true,
+    "fileName": "architectury-9.2.14-forge.jar",
+    "displayName": "[Forge 1.20(.1)] v9.2.14",
+    "gameVersions": [
+      "1.20.1",
+      "Forge",
+      "1.20"
+    ],
+    "hashes": [
+      {
+        "value": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+        "algo": 1
+      },
+      {
+        "value": "76b40d407b6bf0257dd1dab6d3d395d5",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+  },
+  {
+    "projectID": 953637,
+    "fileID": 4981380,
+    "required": true,
+    "fileName": "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
+    "displayName": "[FORGE] DungeonsAriseSevenSeas-1.20.x-1.0.2-forge",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3",
+      "1.20.1",
+      "Forge",
+      "1.20",
+      "1.20.4"
+    ],
+    "hashes": [
+      {
+        "value": "0390b912cc5534bbe0f01853337d777453ca08de",
+        "algo": 1
+      },
+      {
+        "value": "7438cb3ec55972c670e83effa52f8668",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "4d8b2ee057d08cf13be96d05a08fc933e835d6c36395c692662871d4a1319be2"
+  },
+  {
+    "projectID": 256717,
+    "fileID": 5278538,
+    "required": true,
+    "fileName": "Clumps-forge-1.20.1-12.0.0.4.jar",
+    "displayName": "Clumps-forge-1.20.1-12.0.0.4.jar",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "97cc669f68dbe812cb77cc3631339334fc28b877",
+        "algo": 1
+      },
+      {
+        "value": "c9efc71827df6ab51e8dd0e40c3d4975",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a"
+  },
+  {
+    "projectID": 306770,
+    "fileID": 7731017,
+    "required": true,
+    "fileName": "Patchouli-1.20.1-85-FORGE.jar",
+    "displayName": "Patchouli-1.20.1-85-FORGE.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "d4614507d6e4c7cb464bba5eca891978272062ef",
+        "algo": 1
+      },
+      {
+        "value": "78bd223d069fa9491e940d99a8f426b3",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5"
+  },
+  {
+    "projectID": 556490,
+    "fileID": 4601248,
+    "required": true,
+    "fileName": "awesomedungeonocean-forge-1.20.1-3.3.0.jar",
+    "displayName": "Awesome dungeon edition ocean 3.3.0 - Forge 1.20.1",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "1cd5d64b4f60ebacea54fcd0bcdf4055605b17a0",
+        "algo": 1
+      },
+      {
+        "value": "8cf9bfaa469269a866806a7e7d9bdf48",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 532727
+      }
+    ],
+    "sha256": "f437f04d564660f6efc5b35e1b8562fcf2a43dbf144692e0c665517eb2f18fe5"
+  },
+  {
+    "projectID": 463826,
+    "fileID": 5254550,
+    "required": true,
+    "fileName": "Atlas Lib-1.20.1-1.1.12.jar",
+    "displayName": "Atlas Lib-1.20.1-1.1.12.jar",
+    "gameVersions": [
+      "Client",
+      "NeoForge",
+      "1.20.1",
+      "Forge",
+      "1.20",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "17534bfd6878afc2da5d990fe6fc348b2606530c",
+        "algo": 1
+      },
+      {
+        "value": "b63616d984991ee60d313938143eda3f",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "8cc9b5b46e65affed0c38aa54da6870ec4e820364c654c4dd2bb70a94ba39c50"
+  },
+  {
+    "projectID": 379849,
+    "fileID": 5182632,
+    "required": true,
+    "fileName": "The_Undergarden-1.20.1-0.8.14.jar",
+    "displayName": "The Undergarden 0.8.14",
+    "gameVersions": [
+      "Client",
+      "NeoForge",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "d823f6da5ea81ee09df8038dc5645986b184a451",
+        "algo": 1
+      },
+      {
+        "value": "a7eed1f6a3dbef9f70a3e1ca21514cb5",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "43029e388ab455f8c9bcfc8653b9a57a3eb1ff6b435cf6e58722d2d4c50d2444"
+  },
+  {
+    "projectID": 248787,
+    "fileID": 4770828,
+    "required": true,
+    "fileName": "appleskin-forge-mc1.20.1-2.5.1.jar",
+    "displayName": "appleskin-forge-mc1.20.1-2.5.1.jar",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "81919356f84eab14258db98924b66c3c38e372b1",
+        "algo": 1
+      },
+      {
+        "value": "dae63cea9c951dda542a4005ceef3953",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
+  },
+  {
+    "projectID": 1091339,
+    "fileID": 9188826,
+    "required": true,
+    "fileName": "alltheleaks-1.1.4+1.20.1-forge.jar",
+    "displayName": "alltheleaks-1.1.4+1.20.1-forge.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "b4935ae90526992b0c39cf2303cf36ec94a07c41",
+        "algo": 1
+      },
+      {
+        "value": "40395c419aef63db8fa6dd0621e9fd11",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "fb72063a7d17df97740d24355444ef2f95eab97728e1256c639bb432c61b7716"
+  },
+  {
+    "projectID": 223794,
+    "fileID": 8991271,
+    "required": true,
+    "fileName": "appliedenergistics2-forge-15.4.11.jar",
+    "displayName": "AE2 15.4.11 [FORGE]",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "e0d777a400fe3c3082681d28de4e7f6a0b3e7b50",
+        "algo": 1
+      },
+      {
+        "value": "96c4467d4d5dec975867d152f02d9bcc",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 2,
+        "modId": 310111
+      },
+      {
+        "relationType": 2,
+        "modId": 238222
+      },
+      {
+        "relationType": 2,
+        "modId": 245211
+      },
+      {
+        "relationType": 2,
+        "modId": 440979
+      },
+      {
+        "relationType": 3,
+        "modId": 1173950
+      },
+      {
+        "relationType": 2,
+        "modId": 324717
+      }
+    ],
+    "sha256": "f2ff9ee5122b037d4e93537425ab9fbe49860fc9c3977db13b20a50ca7d30f9e"
+  },
+  {
+    "projectID": 448233,
+    "fileID": 9100267,
+    "required": true,
+    "fileName": "entityculling-forge-1.11.3-mc1.20.1.jar",
+    "displayName": "1.11.3-1.20.1 - Forge",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "d3c513e88ef9f5cdd7e27d17d923d4dca69c6d55",
+        "algo": 1
+      },
+      {
+        "value": "cedd6c1c525e8ee36afd71f21aa7bc0b",
+        "algo": 2
+      }
+    ],
+    "dependencies": []
+  },
+  {
+    "projectID": 566649,
+    "fileID": 4601246,
+    "required": true,
+    "fileName": "awesomedungeonnether-forge-1.20.1-3.1.1.jar",
+    "displayName": "Awesome dungeon nether 3.1.1 - Forge 1.20.1",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "c8024ee786ffb831ad46130840e644d67d957cac",
+        "algo": 1
+      },
+      {
+        "value": "c5376a38678db849f5b29916d759d710",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 532727
+      }
+    ],
+    "sha256": "588f68402bee25f2a0a46783951e8500eff008b40e479f9dab976b48f9aa94c5"
+  },
+  {
+    "projectID": 442508,
+    "fileID": 4983862,
+    "required": true,
+    "fileName": "DungeonsArise-1.20.x-2.1.58-release.jar",
+    "displayName": "DungeonsArise-1.20.x-2.1.58-release.jar",
+    "gameVersions": [
+      "1.20.2",
+      "1.20.3",
+      "1.20.1",
+      "Forge",
+      "1.20",
+      "1.20.4"
+    ],
+    "hashes": [
+      {
+        "value": "30b4520e4fab40a6bb6153a2c72e34bcb721f0a5",
+        "algo": 1
+      },
+      {
+        "value": "6ac48d0cf2ce763824f96f6d26963219",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "f8f1254dbe7ed7c1d5403f20361a36f0d0587c82b71313e3f427c7f1ce7c8a90"
+  },
+  {
+    "projectID": 485779,
+    "fileID": 8843034,
+    "required": true,
+    "fileName": "The-Hordes-1.20.1-1.6.3i-all.jar",
+    "displayName": "The-Hordes-1.20.1-1.6.3i.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "NeoForge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "cb28f5be21577618c05cef203b1eb06ecddb3cb1",
+        "algo": 1
+      },
+      {
+        "value": "97c814ade8c5abf4141b457b0733a6d5",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 2,
+        "modId": 238222
+      },
+      {
+        "relationType": 2,
+        "modId": 268655
+      },
+      {
+        "relationType": 3,
+        "modId": 463826
+      }
+    ],
+    "sha256": "f3f7cb25540cb0b86eb5ccea220b8684953e56fea3764b0dcd7678aadd4276c7"
+  },
+  {
+    "projectID": 1028108,
+    "fileID": 9037989,
+    "required": true,
+    "fileName": "tacz-1.20.1-1.1.8-hotfix2.jar",
+    "displayName": "tacz-1.20.1-1.1.8-hotfix2.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "5c2f72dfe8125ffa863e3b5feafa27d86d7e56ea",
+        "algo": 1
+      },
+      {
+        "value": "ae216c160187407831a2174218beff70",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "2cbb89f44333d2eb4e825d86d789ff119b272ff75184390b55bafd4f0e7f10c2"
+  },
+  {
+    "projectID": 378802,
+    "fileID": 5278429,
+    "required": true,
+    "fileName": "structure_gel-1.20.1-2.16.2.jar",
+    "displayName": "Structure Gel 1.20.1-v2.16.2",
+    "gameVersions": [
+      "Client",
+      "NeoForge",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "ec8c59d2a69eca3249a8da673f572b40b6d59895",
+        "algo": 1
+      },
+      {
+        "value": "a4e07a1d6ff69901f70b014683f04498",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e"
+  },
+  {
+    "projectID": 231382,
+    "fileID": 5422013,
+    "required": true,
+    "fileName": "BrandonsCore-1.20.1-3.2.1.302-universal.jar",
+    "displayName": "Brandons Core 1.20.1-3.2.1.302",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "1378ba5f84267c18f945c52d787ac86e40d6c241",
+        "algo": 1
+      },
+      {
+        "value": "eab7f3e470ed31562bd3c6abb0fda6ce",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 242818
+      }
+    ],
+    "sha256": "79eb172fea57b1fa6424fda1c773aefb13c4e11277b810bb4c7577ed8c5f8ca6"
+  },
+  {
+    "projectID": 64760,
+    "fileID": 8336490,
+    "required": true,
+    "fileName": "[1.20.1] SecurityCraft v1.10.2.1.jar",
+    "displayName": "[1.20.1] SecurityCraft v1.10.2.1.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "NeoForge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "6184ca6af68a0a4e8ca4dd28a542b5d1a6c2e3ab",
+        "algo": 1
+      },
+      {
+        "value": "07c5b4516075755002d7af62eb4f8fdd",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "f7c637b291cccd2c4a4f94048a6d08a48065c0618fec03043d6f9e15af27948a"
+  },
+  {
+    "projectID": 308989,
+    "fileID": 5281700,
+    "required": true,
+    "fileName": "caelus-forge-3.2.0+1.20.1.jar",
+    "displayName": "caelus-forge-3.2.0+1.20.1.jar",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge",
+      "1.20"
+    ],
+    "hashes": [
+      {
+        "value": "fa834f140bf7dce7b67c29b46cb531f4309d3209",
+        "algo": 1
+      },
+      {
+        "value": "e37854c44b1849b753afc4a205f31b46",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "37495445e79df8b30a3a038a0051f3c8aa8447f91a9d0aa0d20baef69dda9368"
+  },
+  {
+    "projectID": 445274,
+    "fileID": 7708970,
+    "required": true,
+    "fileName": "relics-1.20.1-0.8.0.13.jar",
+    "displayName": "relics-1.20.1-0.8.0.13.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "940358d190780a9a59a69dd7e75a5e7cf07e4209",
+        "algo": 1
+      },
+      {
+        "value": "8e8a8beb1ac0776448dfbcec179734a1",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 309927
+      },
+      {
+        "relationType": 3,
+        "modId": 916747
+      },
+      {
+        "relationType": 2,
+        "modId": 422301
+      }
+    ],
+    "sha256": "2731d3b81533564c5d206faf94e4e8afaf928d97b47b720e5d6aaa017333096f"
+  },
+  {
+    "projectID": 515276,
+    "fileID": 8946003,
+    "required": false,
+    "fileName": "enhancedai-3.3.7.5.jar",
+    "displayName": "3.3.7.5",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "8cb138410fd857d457a26eca5315546fd0417319",
+        "algo": 1
+      },
+      {
+        "value": "3bf9159b12181dad25b7648ec488fc2c",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 465109
+      }
+    ],
+    "sha256": "d0299bf27bdb5f4fa6af1e8fb33b21277f1ba5613a811dd96aecb9f03e941069"
+  },
+  {
+    "projectID": 1100379,
+    "fileID": 7106942,
+    "required": true,
+    "fileName": "rarcompat-1.20.1-0.5.jar",
+    "displayName": "rarcompat-1.20.1-0.5.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "a6d83f41f0bff392fec5db7e392d57d8b0c818e0",
+        "algo": 1
+      },
+      {
+        "value": "6d7958b048c0f25afc179c769868990f",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 445274
+      },
+      {
+        "relationType": 3,
+        "modId": 312353
+      }
+    ],
+    "sha256": "2de2a9cfd21edf676072ca7432ff9acdd28f8e077fcac90a46d3dea8f82bf9f1"
+  },
+  {
+    "projectID": 313970,
+    "fileID": 6461960,
+    "required": true,
+    "fileName": "Apotheosis-1.20.1-7.4.8.jar",
+    "displayName": "Apotheosis-1.20.1-7.4.8.jar",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "e508c4724a24f0c80836818fcdd3df6424b1fc40",
+        "algo": 1
+      },
+      {
+        "value": "db02304c99d20ff51d4c2427d33c9044",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 2,
+        "modId": 268655
+      },
+      {
+        "relationType": 2,
+        "modId": 324717
+      },
+      {
+        "relationType": 2,
+        "modId": 238222
+      },
+      {
+        "relationType": 3,
+        "modId": 283644
+      },
+      {
+        "relationType": 2,
+        "modId": 309927
+      },
+      {
+        "relationType": 3,
+        "modId": 306770
+      },
+      {
+        "relationType": 2,
+        "modId": 250419
+      },
+      {
+        "relationType": 2,
+        "modId": 245211
+      },
+      {
+        "relationType": 2,
+        "modId": 492246
+      },
+      {
+        "relationType": 3,
+        "modId": 898963
+      }
+    ],
+    "sha256": "5ed8c17cf62837bb649d1054e3e4fe93c4d9bdec98fe9f332e2637a260da30da"
+  },
+  {
+    "projectID": 280510,
+    "fileID": 7612291,
+    "required": true,
+    "fileName": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+    "displayName": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "NeoForge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "76d6b2d0f2a3c9842587ad20666ba419cd8c1efa",
+        "algo": 1
+      },
+      {
+        "value": "e43cd5f7fc4b04e20127359e5bf9af80",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "43ccfd91c1a24d1b3c9d3ccf2dd6a86e9f0c2ba442b111a2238fbff3cf88af11"
+  },
+  {
+    "projectID": 242818,
+    "fileID": 8491810,
+    "required": true,
+    "fileName": "CodeChickenLib-1.20.1-4.4.0.528-universal.jar",
+    "displayName": "CodeChicken Lib 1.20.1-4.4.0.528",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "NeoForge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "66c614b047414e3cfcd69ff7f001b7033c5813c6",
+        "algo": 1
+      },
+      {
+        "value": "cd77cb33d92407fd0b5bf0b79d58af69",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "754240e1cd05caaf511a808ddf6fc74ece68a8fca7d94548d9ac967287f7960d"
+  },
+  {
+    "projectID": 901420,
+    "fileID": 8384482,
+    "required": true,
+    "fileName": "exdeorum-1.53.jar",
+    "displayName": "Ex Deorum 1.53",
+    "gameVersions": [
+      "1.20.1",
+      "Forge",
+      "NeoForge"
+    ],
+    "hashes": [
+      {
+        "value": "33fd5a6d7de3ac582052124f85ba63d20ccdfe23",
+        "algo": 1
+      },
+      {
+        "value": "2f30a9f273da4e8cc0cdba832f0e688e",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 2,
+        "modId": 238222
+      },
+      {
+        "relationType": 2,
+        "modId": 245211
+      }
+    ],
+    "sha256": "e367e2fab21104d7b990be76142c98281612b03f24dbc8ee1f3e52b4401f4cee"
+  },
+  {
+    "projectID": 422301,
+    "fileID": 9323244,
+    "required": true,
+    "fileName": "sophisticatedbackpacks-1.20.1-3.26.15.2228.jar",
+    "displayName": "sophisticatedbackpacks-1.20.1-3.26.15.2228.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "NeoForge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "2dc0eb438cde02da82f7857f588f73a70f2175ba",
+        "algo": 1
+      },
+      {
+        "value": "754a472ca68c9c43fdb504366558c215",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 2,
+        "modId": 238222
+      },
+      {
+        "relationType": 2,
+        "modId": 233071
+      },
+      {
+        "relationType": 2,
+        "modId": 513769
+      },
+      {
+        "relationType": 2,
+        "modId": 456956
+      },
+      {
+        "relationType": 2,
+        "modId": 235577
+      },
+      {
+        "relationType": 2,
+        "modId": 309927
+      },
+      {
+        "relationType": 3,
+        "modId": 618298
+      }
+    ],
+    "sha256": "454733421e8d57ce6f16dae6317c8e25135cb36f26c9ba1b6f6f21bb6ca7b276"
+  },
+  {
+    "projectID": 255308,
+    "fileID": 6134920,
+    "required": true,
+    "fileName": "aether-1.20.1-1.5.2-neoforge.jar",
+    "displayName": "The Aether - 1.20.1-1.5.2-neoforge",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "fb6af601028e399016271bc166fd1de888680de7",
+        "algo": 1
+      },
+      {
+        "value": "3508066e170a010e8a466eea05579b85",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 1,
+        "modId": 915473
+      },
+      {
+        "relationType": 1,
+        "modId": 309927
+      }
+    ],
+    "sha256": "5cb64ab1f27e78e8338fe67f9c766578904aad9bc1f8bcc90f306ea52aea3fc5"
+  },
+  {
+    "projectID": 1173950,
+    "fileID": 8204776,
+    "required": true,
+    "fileName": "guideme-20.1.15.jar",
+    "displayName": "GuideME 20.1.15",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "3d432fc99cefcfd17a12635d2d220f09a069f1c7",
+        "algo": 1
+      },
+      {
+        "value": "0d892c2b4af52459ac6a639040374916",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a"
+  },
+  {
+    "projectID": 575406,
+    "fileID": 4601238,
+    "required": true,
+    "fileName": "awesomedungeonend-forge-1.20.1-3.1.1.jar",
+    "displayName": "Awesome dungeon the end 3.1.1 - Forge 1.20.1",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "7dde322931dab5c24bbf7ef928f4e501f0f09581",
+        "algo": 1
+      },
+      {
+        "value": "d515ff085b9e95d4554886871e187aac",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 532727
+      }
+    ],
+    "sha256": "19782a1c66315873a730a9781259b53a54d937b40197805740563e435ffb48aa"
+  },
+  {
+    "projectID": 949555,
+    "fileID": 7338200,
+    "required": true,
+    "fileName": "BadOptimizations-2.4.1-1.20.1.jar",
+    "displayName": "2.4.1 (1.20.1)",
+    "gameVersions": [
+      "Client",
+      "Fabric",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "304007dcb0fb15ed1a1bc3771736470dafc5be0f",
+        "algo": 1
+      },
+      {
+        "value": "f8dd994ef309213c5dae5cbeef53123c",
+        "algo": 2
+      }
+    ],
+    "dependencies": []
+  },
+  {
+    "projectID": 268560,
+    "fileID": 6552911,
+    "required": true,
+    "fileName": "Mekanism-1.20.1-10.4.16.80.jar",
+    "displayName": "Mekanism-1.20.1-10.4.16.80.jar",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "b7f12ae710888b01746507a0aa8cb375f5897158",
+        "algo": 1
+      },
+      {
+        "value": "3791fb5cf1e8b6f583d3a00d5115d1ee",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 2,
+        "modId": 238222
+      },
+      {
+        "relationType": 2,
+        "modId": 475110
+      },
+      {
+        "relationType": 2,
+        "modId": 309927
+      },
+      {
+        "relationType": 2,
+        "modId": 455982
+      },
+      {
+        "relationType": 2,
+        "modId": 437654
+      },
+      {
+        "relationType": 2,
+        "modId": 324164
+      },
+      {
+        "relationType": 2,
+        "modId": 541617
+      },
+      {
+        "relationType": 2,
+        "modId": 368718
+      },
+      {
+        "relationType": 2,
+        "modId": 324717
+      },
+      {
+        "relationType": 2,
+        "modId": 481655
+      },
+      {
+        "relationType": 2,
+        "modId": 247560
+      },
+      {
+        "relationType": 2,
+        "modId": 223794
+      },
+      {
+        "relationType": 2,
+        "modId": 574123
+      },
+      {
+        "relationType": 2,
+        "modId": 220318
+      },
+      {
+        "relationType": 2,
+        "modId": 245211
+      },
+      {
+        "relationType": 2,
+        "modId": 239197
+      },
+      {
+        "relationType": 2,
+        "modId": 248020
+      },
+      {
+        "relationType": 2,
+        "modId": 226410
+      },
+      {
+        "relationType": 2,
+        "modId": 267602
+      },
+      {
+        "relationType": 2,
+        "modId": 437203
+      },
+      {
+        "relationType": 2,
+        "modId": 280554
+      },
+      {
+        "relationType": 2,
+        "modId": 398521
+      },
+      {
+        "relationType": 2,
+        "modId": 282001
+      },
+      {
+        "relationType": 2,
+        "modId": 449945
+      }
+    ],
+    "sha256": "3b0d191fa4a45e662f9725991d76a30192f30186abb2ba694b873b5f7b9358d2"
+  },
+  {
+    "projectID": 790626,
+    "fileID": 9309378,
+    "required": true,
+    "fileName": "modernfix-forge-5.27.91+mc1.20.1.jar",
+    "displayName": "modernfix-forge-5.27.91+mc1.20.1.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "195d53d299a93c418c90b672c2640b4e41623f96",
+        "algo": 1
+      },
+      {
+        "value": "b01fa4427f855cc157e043789262dcf6",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "b42fe87fd5ffa46f7db56c6cee01b08dea362baf4cc56a70db40d928773b5000"
+  },
+  {
+    "projectID": 531320,
+    "fileID": 4601241,
+    "required": true,
+    "fileName": "awesomedungeon-forge-1.20.1-3.2.0.jar",
+    "displayName": "Awesome dungeon 3.2.0 - Forge 1.20.1",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "b6781ee7eb4ff72c94409971956526cffbd6c0bd",
+        "algo": 1
+      },
+      {
+        "value": "f2a95991bd717b642be42afed7c745c2",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 532727
+      }
+    ],
+    "sha256": "7d1504713f1623e75d01d4d986b1b4bcafc4bfd69ab20bf4ae625f8c4da851bd"
+  },
+  {
+    "projectID": 475117,
+    "fileID": 7527943,
+    "required": true,
+    "fileName": "FastSuite-1.20.1-5.1.2.jar",
+    "displayName": "FastSuite-1.20.1-5.1.2.jar",
+    "gameVersions": [
+      "1.20.1",
+      "Forge",
+      "NeoForge"
+    ],
+    "hashes": [
+      {
+        "value": "32ea4495b0e646f8f060e4e97d17044dd9fdefbd",
+        "algo": 1
+      },
+      {
+        "value": "efca8ff65bbf93e3a0f776998ee181e9",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 283644
+      }
+    ],
+    "sha256": "5e05cb3ce05785a0061a41b7a83443074a6c26dd7d9db75c453fa2487481d54e"
+  },
+  {
+    "projectID": 229449,
+    "fileID": 6028079,
+    "required": true,
+    "fileName": "EpicSiegeMod-14.171.jar",
+    "displayName": "EpicSiegeMod-14.171.jar",
+    "gameVersions": [
+      "Client",
+      "NeoForge",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "8167b3f55184328d72172333e6ac7f27a62aec0e",
+        "algo": 1
+      },
+      {
+        "value": "9e5a7060f45f0d77c2bb3adff9aed194",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "09719deb1d32880c188348442aa975d4a0d932f5a26a6de3737e0f2dadbf997a"
+  },
+  {
+    "projectID": 850298,
+    "fileID": 8483796,
+    "required": true,
+    "fileName": "PassiveSkillTree-1.20.1-BETA-0.7.6e-all.jar",
+    "displayName": "PassiveSkillTree-1.20.1-BETA-0.7.6e-all.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "5ff95e985c51b6916ce726178d58c4e812a6c294",
+        "algo": 1
+      },
+      {
+        "value": "c88116920f4180753cef6d5e7e7e7f86",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 280510
+      }
+    ],
+    "sha256": "dc16e0695711d098d8b80addf7220ed46c5526a429efbcbcc12f1b739c8446e6"
+  },
+  {
+    "projectID": 430642,
+    "fileID": 5293465,
+    "required": true,
+    "fileName": "majruszs-difficulty-forge-1.20.1-1.9.10.jar",
+    "displayName": "Majrusz's Progressive Difficulty 1.9.10 (Forge)",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "18495da41285e8450d1b5fcd066816f6cf55f3a7",
+        "algo": 1
+      },
+      {
+        "value": "0c7904c13caf349c515270a66356fa09",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 437409
+      }
+    ],
+    "sha256": "3a47dee789e49050e2819e1c173c7fc4d8020a8604e7ed9afb4017a941ba86f3"
+  },
+  {
+    "projectID": 299540,
+    "fileID": 5181098,
+    "required": true,
+    "fileName": "FastFurnace-1.20.1-8.0.2.jar",
+    "displayName": "FastFurnace-1.20.1-8.0.2.jar",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "b144b8599acd3fac3f8f9d31fa217a4a5b942f61",
+        "algo": 1
+      },
+      {
+        "value": "48b8d2df29ea216a625928e29a6434da",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 283644
+      }
+    ],
+    "sha256": "970c11c090e7a364e2e006aabb5e573f79901e710e97195334ee5802317776e8"
+  },
+  {
+    "projectID": 348521,
+    "fileID": 5729105,
+    "required": true,
+    "fileName": "cloth-config-11.1.136-forge.jar",
+    "displayName": "[Forge 1.20(.1)] v11.1.136",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge",
+      "1.20"
+    ],
+    "hashes": [
+      {
+        "value": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+        "algo": 1
+      },
+      {
+        "value": "ca5de5acbcb4a30c010aa6953bd7ef53",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+  },
+  {
+    "projectID": 546670,
+    "fileID": 9189705,
+    "required": true,
+    "fileName": "Essential_1-5-1_forge_1-20-1.jar",
+    "displayName": "Essential 1.5.1 [Forge 1.20.1]",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "ccce2752b75a1790a5cf7a2b7363aa1b78549f9f",
+        "algo": 1
+      },
+      {
+        "value": "9de7b16f4ece519834a30351a44df326",
+        "algo": 2
+      }
+    ],
+    "dependencies": []
+  },
+  {
+    "projectID": 437409,
+    "fileID": 5302100,
+    "required": true,
+    "fileName": "majrusz-library-forge-1.20.1-7.0.8.jar",
+    "displayName": "Majrusz Library 7.0.8 (Forge)",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "be0e1b5808206abcc2ff6a369ce0c2ba53968c55",
+        "algo": 1
+      },
+      {
+        "value": "f41b4aea81b1e3a1538a1beace7f6c7d",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "4d58fc2db26343d6b163dbb8f8c98e554ada6fffb634b9896c2d274629090548"
+  },
+  {
+    "projectID": 1471165,
+    "fileID": 8292038,
+    "required": true,
+    "fileName": "EndingLibrary-1.20.1-2.1.19fix-all.jar",
+    "displayName": "EndingLibrary-1.20.1-2.1.19fix-all.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "a687ee2dba977440a042fca2759b72d264790925",
+        "algo": 1
+      },
+      {
+        "value": "e8fc8e889b46be2d8940b3df9252f266",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "0e29af51dabd4e0ea8a315c1886e61f3abee62045f196eb6913d7f4dba6cdc34"
+  },
+  {
+    "projectID": 272515,
+    "fileID": 8569648,
+    "required": true,
+    "fileName": "BetterAdvancements-Forge-1.20.1-0.6.0.73.jar",
+    "displayName": "BetterAdvancements-Forge-1.20.1-0.6.0.73.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "a62ed641fe95d9fea041dea8689f5a037aece597",
+        "algo": 1
+      },
+      {
+        "value": "1c964904cb6c0b4fb7b81fe4eb91519c",
+        "algo": 2
+      }
+    ],
+    "dependencies": []
+  },
+  {
+    "projectID": 429235,
+    "fileID": 4810975,
+    "required": true,
+    "fileName": "ferritecore-6.0.1-forge.jar",
+    "displayName": "ferritecore-6.0.1-forge.jar",
+    "gameVersions": [
+      "Client",
+      "NeoForge",
+      "1.20.1",
+      "Forge",
+      "1.20",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+        "algo": 1
+      },
+      {
+        "value": "f52f538207a4829d7060550092ce2383",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+  },
+  {
+    "projectID": 361579,
+    "fileID": 4738952,
+    "required": true,
+    "fileName": "spark-1.10.53-forge.jar",
+    "displayName": "1.10.53 (Forge 1.20.1)",
+    "gameVersions": [
+      "1.20.1",
+      "Forge",
+      "1.20"
+    ],
+    "hashes": [
+      {
+        "value": "231fb325368c0660954f47bfb03493f5246fa4d1",
+        "algo": 1
+      },
+      {
+        "value": "95dcd3b5400cc5eb5d0478a744e6ef98",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed"
+  },
+  {
+    "projectID": 1492763,
+    "fileID": 9328058,
+    "required": true,
+    "fileName": "irons_lib-1.20.1-2.3.0.jar",
+    "displayName": "irons_lib-1.20.1-2.3.0",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "3a6fecda42c8469580ee82d80c0bedcec775a150",
+        "algo": 1
+      },
+      {
+        "value": "0a9992042465c5ad453f533e70046c1e",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 388172
+      }
+    ],
+    "sha256": "85f606530258f7a37b73f6138da0aeb512f3aa9fe7b5253fb15b0b670fa1862f"
+  },
+  {
+    "projectID": 60089,
+    "fileID": 5338457,
+    "required": true,
+    "fileName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+    "displayName": "[1.20.1 Forge] Mouse Tweaks 2.25.1",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+        "algo": 1
+      },
+      {
+        "value": "ce4b5bbb9ef6a7905c458ab599ef4cb2",
+        "algo": 2
+      }
+    ],
+    "dependencies": []
+  },
+  {
+    "projectID": 312918,
+    "fileID": 5010316,
+    "required": true,
+    "fileName": "blue_skies-1.20.1-1.3.31.jar",
+    "displayName": "Blue Skies: Population 1.20.1-v1.3.31",
+    "gameVersions": [
+      "Client",
+      "NeoForge",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "9d86230565f9262e845da2065f138e470eaed44c",
+        "algo": 1
+      },
+      {
+        "value": "b808868fc3075d2f2ed62f3df27693ae",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 378802
+      },
+      {
+        "relationType": 2,
+        "modId": 855163
+      },
+      {
+        "relationType": 2,
+        "modId": 493280
+      }
+    ],
+    "sha256": "dda5351a7d75f8074e9878912140fd5ab2fe4e74d7678d4f9c52c0b86bce9748"
+  },
+  {
+    "projectID": 283644,
+    "fileID": 6274231,
+    "required": true,
+    "fileName": "Placebo-1.20.1-8.6.3.jar",
+    "displayName": "Placebo-1.20.1-8.6.3.jar",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f",
+        "algo": 1
+      },
+      {
+        "value": "13133ab9989e8474931cd7a86bd19cc5",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
+  },
+  {
+    "projectID": 618298,
+    "fileID": 9323153,
+    "required": true,
+    "fileName": "sophisticatedcore-1.20.1-1.5.16.2433.jar",
+    "displayName": "sophisticatedcore-1.20.1-1.5.16.2433.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "NeoForge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "41d3ac4c4aac13ee1b2025098837ec01ceb4a362",
+        "algo": 1
+      },
+      {
+        "value": "975652b2c7f62ed88f91a67df3338e80",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "aa54a9a20915d961eef2714e7c4e425aeea8527001a98f3e23e79d6fbbb38588"
+  },
+  {
+    "projectID": 908741,
+    "fileID": 5681725,
+    "required": true,
+    "fileName": "embeddium-0.3.31+mc1.20.1.jar",
+    "displayName": "[1.20.1] Embeddium 0.3.31",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+        "algo": 1
+      },
+      {
+        "value": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+  },
+  {
+    "projectID": 465109,
+    "fileID": 8306331,
+    "required": true,
+    "fileName": "insanelib-1.23.4.6.jar",
+    "displayName": "1.23.4.6",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "cca086a7ff34c4ffadb3caf3e825acb87f7e7322",
+        "algo": 1
+      },
+      {
+        "value": "0ff77a82fca15208d3f1a68d4be5cea1",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "cadc3902d8bb6d454f6b5039381da3995220640a1945b65400a2a16f4052a318"
+  },
+  {
+    "projectID": 388800,
+    "fileID": 8854504,
+    "required": true,
+    "fileName": "polymorph-forge-0.49.11+1.20.1.jar",
+    "displayName": "polymorph-forge-0.49.11+1.20.1.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "4f464a183a2df82978c3f6cf55e714bde694af68",
+        "algo": 1
+      },
+      {
+        "value": "1920ae2f01cf42eae705ab5530671d7d",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "cb633f3a3220ccfd00efbb57fb37bf7be44b5266195103af26add462fa71d86a"
+  },
+  {
+    "projectID": 398521,
+    "fileID": 8765179,
+    "required": true,
+    "fileName": "FarmersDelight-1.20.1-1.3.4.jar",
+    "displayName": "Farmer's Delight 1.3.4 - 1.20.1",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "NeoForge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "26f615fd35f652021f5b0f1cba68afa7d578fe15",
+        "algo": 1
+      },
+      {
+        "value": "a61302a31849ad9c37c6ac6e59268b75",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "34f03eb671ea1ca579b00c98e4541404cb96d1a292014aed9cc5eb45ad8afbce"
+  },
+  {
+    "projectID": 898963,
+    "fileID": 5634071,
+    "required": true,
+    "fileName": "ApothicAttributes-1.20.1-1.3.7.jar",
+    "displayName": "ApothicAttributes-1.20.1-1.3.7.jar",
+    "gameVersions": [
+      "NeoForge",
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "1dc0744d17f0861fe6b067798d39abce9d8e0e86",
+        "algo": 1
+      },
+      {
+        "value": "d4f8d1945416d5150cd67d27469b5ce9",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 2,
+        "modId": 309927
+      },
+      {
+        "relationType": 3,
+        "modId": 283644
+      }
+    ],
+    "sha256": "68487b11c0d4e2f67a85f2b04bf65e99ac15294f2923f4391f83e9542293187a"
+  },
+  {
+    "projectID": 312353,
+    "fileID": 7903806,
+    "required": true,
+    "fileName": "artifacts-forge-9.5.19.jar",
+    "displayName": "artifacts-forge-9.5.19.jar",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "91ab6fc2cc208550f7fc37c43e42eba81eff318e",
+        "algo": 1
+      },
+      {
+        "value": "54a59ba2d659e97aaff43264dd63e9c3",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 419699
+      },
+      {
+        "relationType": 3,
+        "modId": 348521
+      },
+      {
+        "relationType": 3,
+        "modId": 309927
+      }
+    ],
+    "sha256": "f1e4dc786866b6e4f2a48142f2acf63bb9bee54ac2f31621ad5d8f18ab54c7b0"
+  },
+  {
+    "projectID": 388172,
+    "fileID": 8285794,
+    "required": true,
+    "fileName": "geckolib-forge-1.20.1-4.8.4.jar",
+    "displayName": "geckolib-forge-1.20.1-4.8.4.jar",
+    "gameVersions": [
+      "1.20.1",
+      "Forge"
+    ],
+    "hashes": [
+      {
+        "value": "81982cc287f80ffabb2fd36d22cc95e4255c739d",
+        "algo": 1
+      },
+      {
+        "value": "83c73bcbf5778235569025ed968dc3ec",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747"
+  },
+  {
+    "projectID": 277616,
+    "fileID": 4888575,
+    "required": true,
+    "fileName": "solcarrot-1.20.1-1.15.1.jar",
+    "displayName": "solcarrot-1.20.1-1.15.1.jar",
+    "gameVersions": [
+      "1.20.2",
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "f7fa1fd0c633b10f98d7f0f97766b95aac1a2dc0",
+        "algo": 1
+      },
+      {
+        "value": "3b143c8d252b51221b5e85724c00171c",
+        "algo": 2
+      }
+    ],
+    "dependencies": [],
+    "sha256": "629d6744c8d856c51c74c66eba4c252c6d62d392dbaf5b24ea690cd8f081e679"
+  },
+  {
+    "projectID": 1376660,
+    "fileID": 9316839,
+    "required": true,
+    "fileName": "tacz_turrets-forge-3.0.1-1.20.1.jar",
+    "displayName": "tacz_turrets-forge-3.0.1-1.20.1.jar",
+    "gameVersions": [
+      "Client",
+      "1.20.1",
+      "Forge",
+      "Server"
+    ],
+    "hashes": [
+      {
+        "value": "b917513c89d93bd7babd51d6acace7cd6df6ad68",
+        "algo": 1
+      },
+      {
+        "value": "bc7fae4f3120859c6765a66519735dac",
+        "algo": 2
+      }
+    ],
+    "dependencies": [
+      {
+        "relationType": 3,
+        "modId": 1028108
+      },
+      {
+        "relationType": 3,
+        "modId": 419699
+      },
+      {
+        "relationType": 1,
+        "modId": 661293
+      },
+      {
+        "relationType": 1,
+        "modId": 388172
+      }
+    ],
+    "sha256": "35026e8d1246573959e2d1d4c1c885a2a1b0451da327a2f0d69a4f89cdf11730"
+  }
+]
